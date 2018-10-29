@@ -1,1 +1,1 @@
-Integration from saltstack into CVP.
+Integration from Saltstack into Arista cloudvision portal.
